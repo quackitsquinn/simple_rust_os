@@ -1,0 +1,2 @@
+cargo::rustc-link-arg=-n
+cargo::rustc-link-arg=-Tlink.ld
